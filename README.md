@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @CIZMON
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning VAPT testing
-- 💞️ I’m looking to collaborate on ..... still looking
+- 🌱 I’m currently web app pentesting.
 - 📫 How to reach me czanbhandari21@gmail.com
 <!---
 CIZMON/CIZMON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
